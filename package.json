@@ -70,6 +70,11 @@
   "devDependencies": {
     "@cablanchard/tsconfig": "~0.0.1",
     "@cablanchard/tslint": "0.0.1",
+    "@semantic-release/changelog": "~3.0.2",
+    "@semantic-release/commit-analyzer": "~6.1.0",
+    "@semantic-release/git": "~7.0.8",
+    "@semantic-release/github": "~5.2.10",
+    "@semantic-release/release-notes-generator": "~7.1.4",
     "@types/chai": "~4.1.7",
     "@types/mocha": "~5.2.5",
     "chai": "~4.2.0",

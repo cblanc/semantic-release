@@ -25,7 +25,7 @@ const release = {
     // fail: Open a GitHub issue when a release fails
     "@semantic-release/github",
   ],
-  tagFormat: "{version}",
+  tagFormat: "${version}",
 };
 
 export = release;

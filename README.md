@@ -7,13 +7,9 @@
 In `package.json`
 
 ```json
-...
-
 "release": {
   "extends": "@cablanchard/semantic-release"
 },
-
-...
 ```
 
 ## Licence

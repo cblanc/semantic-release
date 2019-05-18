@@ -11,9 +11,6 @@
   "version": "0.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "release": {
-    "extends": "@cablanchard/semantic-release"
-  },
   "scripts": {
     "test": "npm run lint && NODE_ENV=test node_modules/.bin/nyc node_modules/.bin/mocha",
     "lint": "node_modules/.bin/tslint -c tslint.json -p tsconfig.json lib/**/*.ts",

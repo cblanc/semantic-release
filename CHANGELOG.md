@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/cblanc/semantic-release/compare/1.2.0...1.2.1) (2019-05-21)
+
+
+### Bug Fixes
+
+* **Deps:** Add semantic release packages to deps ([759ed1f](https://github.com/cblanc/semantic-release/commit/759ed1f))
+
 # [1.2.0](https://github.com/cblanc/semantic-release/compare/1.1.0...1.2.0) (2019-05-21)
 
 

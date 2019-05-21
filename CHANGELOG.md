@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/cblanc/semantic-release/compare/1.1.0...1.2.0) (2019-05-21)
+
+
+### Features
+
+* **npm:** Try to trigger npm release version ([99eccec](https://github.com/cblanc/semantic-release/commit/99eccec))
+
 # [1.1.0](https://github.com/cblanc/semantic-release/compare/1.0.0...1.1.0) (2019-05-18)
 
 

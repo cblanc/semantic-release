@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/cblanc/semantic-release/compare/1.2.1...1.3.0) (2019-10-29)
+
+
+### Features
+
+* **Versioning:** Push npm version to github ([a7aefae](https://github.com/cblanc/semantic-release/commit/a7aefaebb7ab527bed21c15bf5f1960dea26742f))
+
 ## [1.2.1](https://github.com/cblanc/semantic-release/compare/1.2.0...1.2.1) (2019-05-21)
 
 

@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/cblanc/semantic-release/compare/1.3.0...1.3.1) (2019-11-04)
+
+
+### Bug Fixes
+
+* **npm:** Include package-lock.json ([6d20f88](https://github.com/cblanc/semantic-release/commit/6d20f882603285aa6410ac74f852044bbcd6bf63))
+
 # [1.3.0](https://github.com/cblanc/semantic-release/compare/1.2.1...1.3.0) (2019-10-29)
 
 

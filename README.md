@@ -1,3 +1,6 @@
+![Release](https://github.com/cblanc/semantic-release/workflows/Release/badge.svg)
+![CI](https://github.com/cblanc/semantic-release/workflows/CI/badge.svg)
+
 # Semantic Release Config
 
 ## Usage

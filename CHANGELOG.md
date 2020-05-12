@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/cblanc/semantic-release/compare/1.3.1...1.3.2) (2020-05-12)
+
+
+### Bug Fixes
+
+* **Deps:** Remove deps ([e9ab383](https://github.com/cblanc/semantic-release/commit/e9ab383))
+
 ## [1.3.1](https://github.com/cblanc/semantic-release/compare/1.3.0...1.3.1) (2019-11-04)
 
 

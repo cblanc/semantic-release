@@ -81,13 +81,14 @@
     "source-map-support": "~0.5.19",
     "ts-node": "~8.10.1",
     "tslint": "~6.1.2",
-    "typescript": "~3.8.3",
+    "typescript": "~3.8.3"
+  },
+  "dependencies": {
     "@semantic-release/changelog": "~5.0.1",
     "@semantic-release/commit-analyzer": "~8.0.1",
     "@semantic-release/git": "~9.0.0",
     "@semantic-release/github": "~7.0.5",
     "@semantic-release/npm": "~7.0.5",
     "@semantic-release/release-notes-generator": "~9.0.1"
-  },
-  "dependencies": {}
+  }
 }

@@ -15,7 +15,7 @@
     "test": "npm run lint && NODE_ENV=test nyc mocha",
     "lint": "tslint -c tslint.json -p tsconfig.json lib/**/*.ts",
     "build": "npm run lint && tsc",
-    "semantic-release": "npm run build && semantic-release --no-ci",
+    "semantic-release": "semantic-release",
     "watch": "mocha --watch-extensions ts --watch"
   },
   "prettier": {

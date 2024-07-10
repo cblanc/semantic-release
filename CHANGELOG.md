@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/cblanc/semantic-release/compare/1.3.4...2.0.0) (2024-07-10)
+
+
+### Features
+
+* **Bump:** Bump major releases for semantic-release and related ([7b90d70](https://github.com/cblanc/semantic-release/commit/7b90d70322a8ca8bda088e39fe195f5644f94503))
+* **Deps:** Update semantic-release versions ([050d642](https://github.com/cblanc/semantic-release/commit/050d6422dc42b858cf37cc9aa69c528486e74942))
+
+
+### BREAKING CHANGES
+
+* **Bump:** Many major release bumps
+
 ## [1.3.4](https://github.com/cblanc/semantic-release/compare/1.3.3...1.3.4) (2020-05-26)
 
 
